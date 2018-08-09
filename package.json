@@ -1,0 +1,26 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "iso8601": "^1.1.1",
+    "less-middleware": "~2.2.1",
+    "lodash": "^4.17.10",
+    "morgan": "~1.9.0",
+    "pug": "2.0.0-beta11",
+    "request": "^2.87.0"
+  },
+  "description": "Test app",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "James",
+  "license": "ISC"
+}
